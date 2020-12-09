@@ -78,19 +78,19 @@
 			background-color: #00aced;
 		}
 		.share-btn-twitter:hover {
-		background-color: #0087ba;
+			background-color: #0087ba;
 		}
 		.share-btn-facebook {
-		background-color: #3b5998;
+			background-color: #3b5998;
 		}
 		.share-btn-facebook:hover {
-		background-color: #2d4373;
+			background-color: #2d4373;
 		}
 		.share-btn-reddit {
-		background-color: #ed001c;
+			background-color: #ed001c;
 		}
 		.share-btn-reddit:hover {
-		background-color: #ba0016;
+			background-color: #ba0016;
 		}
 		#banks{
 			width: 80px;
@@ -103,7 +103,6 @@
 			background-color: #f8f9fa;
 			border: 1px solid #e8e8e8;
 		}
-
 		.col-lg-3{
 			padding: 0;
 		}
@@ -122,23 +121,18 @@
 			font-size: 25px;
 			font-family: montserratb;
 		}
-
 		.card-body p{
 			font-size: 12px;
 		}
-
 		.pricing .card-price {
 			font-size: 3rem;
 		}
-
 		.pricing .card-price sup{
 			font-size: 1rem;
 		}
-
 		.pricing ul li {
 			margin-bottom: 1rem;
 		}
-
 		.pricing .text-muted {
 			opacity: 0.7;
 		}
@@ -150,7 +144,6 @@
 			margin-top: 30px;
 			padding: 10px;
 		}
-
 		.pricing .btn {
 			font-size: 80%;
 			border-radius: 5rem;
