@@ -547,6 +547,9 @@
 		#copyright a{
 			display: inline-block;
 		}
+		b{
+			font-family: montserratb!important;
+		}
 	</style>
 </head>
 <body>
